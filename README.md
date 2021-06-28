@@ -1,2 +1,2 @@
-# Mycloud.games.io
-Web page
+# Mycloud.games
+Pagina web sencilla
